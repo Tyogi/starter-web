@@ -5,7 +5,9 @@
 This is an example to show different parts of git repositroy.
 
 ## Purpose
+ This section shows the purpose of this readme file.
 
 ##Deployment
+This is the deployement phase of the file.
 
 ##How To Contribute
