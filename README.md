@@ -11,3 +11,6 @@ This is an example to show different parts of git repositroy.
 This is the deployement phase of the file.
 
 ##How To Contribute
+
+##CopyRight
+This is a copyright notice.
